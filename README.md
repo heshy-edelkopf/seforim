@@ -1,5 +1,11 @@
 # seforim
 free seforim online free texts and shiurim
+seforim-site/
+├── index.html        <-- Main homepage
+├── css/              
+│   └── styles.css    <-- CSS file for styling
+└── images/           <-- Optional: Folder for images (add images if needed)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
